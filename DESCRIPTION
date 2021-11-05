@@ -1,6 +1,6 @@
 Package: drpop
-Title: Efficient Doubly Robust Population Size Estimation
-Version: 0.0.2
+Title: Efficient and Doubly Robust Population Size Estimation
+Version: 0.0.3
 Authors@R: 
     c(person(given = "Manjari",
            family = "Das",
@@ -22,9 +22,9 @@ RoxygenNote: 7.1.1
 Suggests: testthat (>= 2.0.0)
 Config/testthat/edition: 2
 NeedsCompilation: no
-Packaged: 2021-10-18 23:49:19 UTC; manja
+Packaged: 2021-11-05 20:41:47 UTC; manja
 Author: Manjari Das [aut, cre] (<https://orcid.org/0000-0002-6781-6368>),
   Edward H. Kennedy [aut] (<https://orcid.org/0000-0002-1510-8175>)
 Maintainer: Manjari Das <manjari8d@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-10-25 23:10:07 UTC
+Date/Publication: 2021-11-05 21:10:02 UTC
